@@ -1,3 +1,3 @@
 # BeePro Sms Scales
-![SmsScales](/images/pcb.jpe)
+![SmsScales](/images/pcb.jpg)
 
