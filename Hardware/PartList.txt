@@ -1,0 +1,47 @@
+* Partlist 2022.01.23 14:04:02
+*
+* Name	Value	Layer
+*
+C1	100uf	Top
+C2	0,1uf	Top
+C3	1Uf	Top
+C4	1Uf	Bottom
+C5	1Uf	Top
+C6	0,1Uf	Top
+C6	1Uf	Top
+C7	0,1Uf	Top
+C8	100uf	Bottom
+C9	47Uf	Bottom
+C10	47Uf	Top
+C11	10uf	Top
+IC2	DS3231SN	Bottom
+IC3	Atmega328 TQFP32	Top
+IC4	TP4057	Top
+IC5	HX711	Bottom
+P1	G27Y	Bottom
+Q1	DPM1045U-7	Top
+Q2	DPM1045U-7	Top
+Q3	MMBT2222A	Top
+Q4	MMBT2222A	Top
+Q5	MCP1702-3.0	Top
+Q6	DTA113ZCA	Top
+Q7	DTA113ZCA	Bottom
+R1	47k	Top
+R2	150R	Top
+R3	47K	Top
+R4	510R	Top
+R6	47K	Top
+R7	510R	Top
+R7	510R	Top
+R8	510R	Top
+R9	47K	Top
+R10	330R	Top
+R11	150R	Top
+R12	8.2K	Bottom
+R13	10K	Bottom
+R14	10K	Top
+R15	1,6K	Top
+SIM	Sim Holder	Bottom
+U2	A9	Top
+18650 Battery with solder tabs (Rechargeable) 
+
