@@ -43,3 +43,4 @@ R14	10K	Top
 R15	1,6K	Top
 SIM	Sim Holder	Bottom
 U2	A9	Top
+18650 Battery with solder tabs (Rechargeable) 
