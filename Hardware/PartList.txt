@@ -1,4 +1,4 @@
-* Partlist from file: new_atmUSB3.lay6" / 2022.01.23 14:04:02
+* Partlist 2022.01.23 14:04:02
 *
 * Name	Value	Layer
 *
