@@ -6,4 +6,4 @@
 # BeePro Sms Scales
 ![SmsScales](/images/pcb.jpg)
 
-![3d Model](/images/Case.jpg)
+![3d Model](/images/Case.jpeg)
