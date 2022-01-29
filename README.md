@@ -25,7 +25,7 @@ Lines
 10. 16 hour hive weight, temperature and humidity
 
 #### Over 1 Kg Change In 1 Hour Report
-![Sms Alert](/images/smsAlert.png)   
+![Sms Alert](/images/alertSms.png)   
 Lines
 1. Scales ID and hive weight at 8pm
 2. Beehive daily change in hive weight
