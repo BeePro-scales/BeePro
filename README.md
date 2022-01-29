@@ -5,7 +5,7 @@
 #### How to set the scales [Here](/Settings.md)
 
 #### SMS Of Daily Report
-![Sms](/images/sms.png)
+![Sms](/images/sms.png)      tatat
 
 ![SmsScales](/images/pcb.jpg)
 
