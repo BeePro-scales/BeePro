@@ -5,7 +5,7 @@
 #### How to set the scales [Here](/Settings.md)
 
 #### Technical Characteristics
-Humidity measurement: 10 to 99% RH operating range, precision :± 4% RH (max), 0–80% RH
+Humidity measurement: 0 to 100% RH operating range, precision :± 4% RH (max), 0–80% RH
 Temperature measurement: -25 to +60 C, ±0.4 °C (max), –10 to 85 °C
 Power source: 18650 Li-Ion battery
 Standby power consumption: ~1 µA (microampere)
