@@ -15,7 +15,7 @@ C9	47Uf	Bottom
 C10	47Uf	Top
 C11	10uf	Top
 IC2	DS3231SN	Bottom
-IC3	Atmega328 TQFP32	Top
+IC3	Atmega328 TQFP32	Top   Fuse : Low 0xE2 High 0xD7 Extended 0xFE
 IC4	TP4057	Top
 IC5	HX711	Bottom
 P1	G27Y	Bottom
