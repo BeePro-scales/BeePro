@@ -1,9 +1,17 @@
 
 #### Functions without a serial monitor
-Trumpas paspaudimas  <3sek. LeD sumirksi 2 kartus (aš gyvas, dirbu :) )
-Į serial momitor išveda: 
+Trumpas paspaudimas  <3sek. LED sumirksi 2 kartus (aš gyvas, dirbu :) )
+Į serial monitor išvedama informacija:
 
-Spaudžiame (užsidega žalias led) ir laikom (~3sek.) mygtuką.
+F0.1  +30000000000 LA256 4.00 01/01/2000 00:17:13
+hg: 34 cls: 23 wg: 0.00
+Standby
+
+Kur: F0.1 - programos versija.   +30000000000 numeris kuriuo siunciame SMS. LA256 - Svarstyklių ID. 4.00 - akumuliatoriaus voltai. 01/01/2000 00:17:13- Svarstykliu data ir laikas
+
+hg: 34 cls: 23 wg: 0.00 - Drėgmė , temperatūra ir svoris.
+
+Jei toliau spaudžiame (užsidega žalias led) ir laikom (~3sek.) mygtuką.
 1. Užsidegus mėlinam led ir atleidus mygtuką : 
                             kalibravimo režimas dega mėlinas led 15 sek. , per tą laiką at svarstyklių platformos reikia uždėti 1kg. svorį.
                             Jei pavyko žalias diodas mirkteli 2 kartus. Kalibravimas baigtas.
