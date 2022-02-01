@@ -1,6 +1,7 @@
 
 #### Functions without a serial monitor
-
+Trumpas paspaudimas  <3sek. LeD sumirksi 2 kartus (aš gyvas, dirbu :) )
+Į serial momitor išveda: 
 Spaudžiame (užsidega žalias led) ir laikom (~3sek.) mygtuką.
 1. Užsidegus mėlinam led ir atleidus mygtuką : 
                             kalibravimo režimas dega mėlinas led 15 sek. , per tą laiką at svarstyklių platformos reikia uždėti 1kg. svorį.
