@@ -14,7 +14,7 @@ Standby power consumption: ~1 µA (microampere)
 ![Sms](/images/sms.png)     
 Lines
 1. Scales ID and hive weight at 8pm
-2. Beehive daily change in hive weight
+2. Daily beehive weight change
 3. Scales time
 4. Current humidity and temperature
 5. Battery volts and remaining charge
@@ -28,12 +28,12 @@ Lines
 ![Sms Alert](/images/alertSms.png)   
 Lines
 1. Scales ID and hive weight at 8pm
-2. Beehive daily change in hive weight
+2. Daily beehive weight change
 3. Scales time
 4. Current humidity and temperature
 5. Battery volts and remaining charge
 6. GSM network signal quality range from 1 to 33
-7. Wheight change in last hour
+7. Weight change in last hour
 
 ![SmsScales](/images/pcb.jpg)
 

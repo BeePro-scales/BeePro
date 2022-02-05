@@ -1,50 +1,68 @@
+#### Functions for scales without a screen:
 
-#### Functions without a serial monitor
-Trumpas paspaudimas  <3sek. LED sumirksi 2 kartus (aš gyvas, dirbu :) )
-Į serial monitor išvedama informacija:
+Short click <3 seconds. If LED blinks for 2 times - the scales are alive and working.
 
-F0.1  +30000000000 LA256 4.00 01/01/2000 00:17:13
+Information that scales provide:
+
+F0.1 +30000000000 LA256 4.00 01/01/2000 00:17:13
 hg: 34 cls: 23 wg: 0.00
-Standby
 
-Kur: F0.1 - programos versija.   +30000000000 numeris kuriuo siunciame SMS. LA256 - Svarstyklių ID. 4.00 - akumuliatoriaus voltai. 01/01/2000 00:17:13- Svarstykliu data ir laikas
+Explanation:
 
-hg: 34 cls: 23 wg: 0.00 - Drėgmė , temperatūra ir svoris.
+  - F0.1 - software version;
+  - +30000000000 - phone number scales send SMS to;
+  - LA256 - Unique scales ID;
+  - 4.00 - battery volts;
+  - 01/01/2000 00:17:13 - Scales date and time;
+  - hg: 34 - Humidity;
+  - cls: 23 - Temperature;
+  - wg: 0.00 - Day weight difference;
 
-Jei toliau spaudžiame (užsidega žalias led) ir laikom (~3sek.) mygtuką.
-1. Užsidegus mėlinam led ir atleidus mygtuką : 
-                            kalibravimo režimas dega mėlinas led 15 sek. , per tą laiką at svarstyklių platformos reikia uždėti 1kg. svorį.
-                            Jei pavyko žalias diodas mirkteli 2 kartus. Kalibravimas baigtas.
-                            Jei nepavyko (neprijunkta platforma, blogas sensorius ir t.t.) raudonas diodas mirkteli 3 kartus.
-2. Laikome mygtuka kol dega melinas led (3sek.), užsidega žalias led, atleidžiame :
- SMS testas, išsiuncia testine sms žinutę. 
- Jei nebustatytas šeiminko numeris mirkteli 2 kartus raudonai.
-    
-#### Functions with a serial monitor                        
-The communication speed (baudrate). Usee 9600 bits per second. Set the flow control to Software (8-N-1).
+---- Test and calibration mode:
 
-3. Laikome mygtuka kol dega žalias led (3sek.), užsidega raudonas led, atleidžiame :
-   Į serial monitor išvedamas menių:
- 
- Menu:
-1-Test Hardware
-2-Send Test SMS
-3-Change/Add Master Number
-4-Set ID
-5-Set Date/Time
-6-Power Off
+-- Calibration mode:
 
-Menių punktai:
-1. Tikriname SI7020 sensor ir real time clock  
-  Jei viskas gerai gauname:
-      Test RTC: OK Date: 01/01/2000 00:00:52
-      Test SI7020: OK  H%: 32 Celsius: 20
-  Jei Blogai:
-      Test RTC: FAIL
-      or
-      Test SI7020: FAIL
-2. Send sms ir testuojame gsm modema.
-3. Nustatome į kokį mob. telefono numeris bus siunčiama ataskaita 20 val.
-4. Nustatme svarstyklių ID (matosi SMS)
-5. Nustatome Datą ir laiką
-6. Išjungiame įrenginį.
+  Hold the power button till LED turns blue, then release click:
+    - Calibration mode is on for 15 seconds. You’ll need to add 1kg. weight on the scales in this period (15 seconds ).
+    - In case calibration was successful - the LED blinks 2 times in green color and this means that calibration is done.
+
+  If LED blinks 3 times in red color - calibration failed, this could be for many reasons (unconnected platform, bad sensor, etc.)
+
+-- Send a test SMS message:
+
+  Hold the power button till LED turns blue, hold for another 3 seconds ( do not release click when LED turns blue), when LED turns green, release click :
+    - This will send a test SMS message.
+
+  If LED blinks 2 times in red - scales does not have master phone number (you need to set it in the scales settings )
+
+#### Functions for scales with a screen:
+
+Click and hold the power button for 3 seconds, when LED turns red - release click :
+
+Screen menu :
+
+1. Test Hardware
+2. Send a Test SMS
+3. Change/Add Master Number
+4. Set ID
+5. Set Date/Time
+6. Power Off
+
+Explanation of menu items:
+
+1. Test Hardware - test SI7020 sensor:
+  - If the test is successful, see this on the screen:
+
+    Test RTC: OK Date: 01/01/2000 00:00:52
+    Test SI7020: OK H%: 32 Celsius: 20
+
+  - If the test failed, see this on the screen:
+    Test RTC: FAIL
+    or
+    Test SI7020: FAIL
+
+2. Send a Test SMS - Send a test SMS and test the GSM module.
+3. Change/Add Master Number - Set the main (master) phone number to where to send the day report (scales send a report every day at 20:00 ).
+4. Set ID - Set unique scales ID (this ID is visible in the SMS message )
+5. Set Date/Time - Set scales date and time.
+6. Power Off - Turn off scales.
