@@ -32,7 +32,7 @@ Explanation:
 
   Hold the power button till LED turns blue, hold for another 3 seconds ( do not release click when LED turns blue), when LED turns green, release click :
   
-    - This will send a test SMS message.
+    This will send a test SMS message.
 
   If LED blinks 2 times in red - scales does not have master phone number (you need to set it in the scales settings )
 
