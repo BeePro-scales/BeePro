@@ -18,7 +18,7 @@ Explanation:
   - cls: 23 - Temperature;
   - wg: 0.00 - Day weight difference;
 
----- Test and calibration mode:
+#### Test and calibration mode:
 
 -- Calibration mode:
 
@@ -26,15 +26,15 @@ Explanation:
     - Calibration mode is on for 15 seconds. You’ll need to add 1kg. weight on the scales in this period (15 seconds ).
     - In case calibration was successful - the LED blinks 2 times in green color and this means that calibration is done.
 
-  If LED blinks 3 times in red color - calibration failed, this could be for many reasons (unconnected platform, bad sensor, etc.)
+    If LED blinks 3 times in red color - calibration failed, this could be for many reasons (unconnected platform, bad sensor, etc.)
 
--- Send a test SMS message:
+#### Send a test SMS message:
 
   Hold the power button till LED turns blue, hold for another 3 seconds ( do not release click when LED turns blue), when LED turns green, release click :
   
-    This will send a test SMS message.
+  This will send a test SMS message.
 
-  If LED blinks 2 times in red - scales does not have master phone number (you need to set it in the scales settings )
+    If LED blinks 2 times in red - scales does not have master phone number (you need to set it in the scales settings )
 
 #### Functions for scales with a screen:
 
