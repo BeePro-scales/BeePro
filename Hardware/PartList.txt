@@ -14,6 +14,7 @@ C8	100uf	Bottom
 C9	47Uf	Bottom
 C10	47Uf	Top
 C11	10uf	Top
+D1-D6 BAS16HT1G SOD-323  Bottom
 IC2	DS3231SN	Bottom
 IC3	Atmega328 TQFP32	Top   Fuse : Low 0xE2 High 0xD7 Extended 0xFE
 IC4	TP4057	Top
