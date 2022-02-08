@@ -45,5 +45,5 @@
   41  ANT   14.5mm     Top      ---    SMA Female Thru Hole plug Right Angle 90 DEGREE ( SMA-KWE ) PCB Mount Connector RF
   42  BAT   Li-Ion     --      18650   18650 Battery with solder tabs (Rechargeable) 
   43	SIM	 Sim Holder	Bottom	 WeLink-0009 
-![WeLink-0009](/Hardware/SimHolder.jpg)   
 
+![WeLink 0009](/Hardware/SimHolder.jpg)   
