@@ -6,8 +6,10 @@ Bottom part ![Bottom Side](/images/pcbBottom.jpeg)
 
 Top part ![Up Side](/images/pcbUp.jpeg)
 
-###Kai kurie atsakingi momentai:
+#### Kai kurie atsakingi momentai:
 
-SI7021 modulio paruošimas.                       
+# SI7021 modulio paruošimas.                       
 Sulituojame modulį ![0si](/images/0si.jpg)   Nuimame plastmasę ![1si](/images/1si.jpg)  Atlenkiame kontaktus ![2si](/images/2si.jpg)  
+
+# Akumuliatoriaus prilitavimas.                       
    
