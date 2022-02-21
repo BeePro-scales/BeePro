@@ -11,5 +11,8 @@ Top part ![Up Side](/images/pcbUp.jpeg)
 #### SI7021 modulio paruošimas.                       
 Sulituojame modulį ![0si](/images/0si.jpg)   Nuimame plastmasę ![1si](/images/1si.jpg)  Atlenkiame kontaktus ![2si](/images/2si.jpg)  
 
-#### Akumuliatoriaus prilitavimas.                       
-   
+#### Akumuliatoriaus prilitavimas kad tilptu į korpusą.                       
+
+Dedame ant lygaus pagrindo bet kuria puse įdedame akumuliatorų ir prilituojame
+
+![bat0](/images/bat0.jpg)   arba ![bat1](/images/bat1.jpg)
