@@ -9,6 +9,5 @@ Top part ![Up Side](/images/pcbUp.jpeg)
 ###Kai kurie atsakingi momentai:
 
 SI7021 modulio paruošimas.                       
-Sulituojame modulį ![Sulituojame modulį](/images/0si.jpg)   Nuimame plastmasę ![Nuimame plastmasę](/images/1si.jpg)  
+Sulituojame modulį ![0si](/images/0si.jpg)   Nuimame plastmasę ![1si](/images/1si.jpg)  Atlenkiame kontaktus ![2si](/images/2si.jpg)  
    
-Writing fuse to : Low 0xE2 High 0xD7 Extended 0xFE . Action [AVRDUDE](http://www.nongnu.org/avrdude/) arguments -U lfuse:w:0xe2:m -U hfuse:w:0xd7:m -U efuse:w:0xfe:m
