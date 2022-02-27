@@ -38,3 +38,6 @@ Lines
 ![SmsScales](/images/pcb.jpg)
 
 ![3d Model](/images/Case.jpeg)
+
+# Feel free to ping us at beeproscales@gmail.com - if you're intrested to buy parts "KIT"
+
