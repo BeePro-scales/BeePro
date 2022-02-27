@@ -1,52 +1,8 @@
 * Partlist : 2022-02-08 16:15:27
-*
-* No	Name	Value	Layer	Package
-*
-  1 	C1     	100uf	   Top	  0805
-  2 	C2	    0,1uf    Top    0603
-  3 	C3     	1Uf    	 Top	  0805
-  4	  C4	    1Uf 	  Bottom	0805
-  5 	C5	    1Uf	     Top	  0805
-  6 	C6	    0,1Uf    Top	  0805
-  7 	C6     	1Uf    	 Top	  0805
-  8 	C7     	0,1Uf	 Top	    0805
-  9 	C8	    100uf	Bottom    0805
-  10	C9	    47Uf	Bottom    0805
-  11	C10	    47Uf	 Top	    0805
-  12  C11	    10uf	 Top	    0805
-  13	IC2	   DS3231SN	Bottom	0805
-  14	IC3	  Atmega328  Top	 TQFP32	  Fuse : Low 0xE2 High 0xD7 Extended 0xFE
-  15	IC4	   TP4057	 Top	  SOT-23-6
-  16	IC5	   HX711	Bottom	 SOP-16L
-  17	P1	    G27Y	Bottom	  ---
-  18	Q1	 SI2329DS 	 Top	  SOT-23
-  19	Q2	 SI2329DS 	 Top	  SOT-23
-  20	Q3	 MMBT2222A	 Top	  SOT-23
-  21	Q4	 MMBT2222A	 Top	  SOT-23
-  22	Q5	 MCP1702-3.0 Top	  SOT-23A
-  23	Q6	 DTA113ZCA	 Top	  SOT-23
-  24	Q7	 DTA113ZCA	Bottom	SOT-23
-  25	R1	    47k	     Top	   0805
-  26	R2	    150R	   Top	   0805
-  27	R3	    47K	     Top	   0805
-  28	R4	    510R	   Top	   0805
-  29	R6	    47K	     Top	   0805
-  30	R7	    510R	   Top	   0805
-  31	R7	    510R	   Top     0805
-  32	R8	    510R	   Top     0805
-  33	R9     	47K      Top     0805
-  34	R10    	330R     Top     0805
-  35	R11    	150R	   Top	   0805
-  36	R12    	8.2K	  Bottom	 0805
-  37	R13    	10K 	  Bottom   0805
-  38	R14    	10K      Top     0805
-  39	R15	   1,6K      Top     0805
-  40	U2	    A9	     Top	   0805
-  41  ANT   14.5mm     Top      ---    SMA Female Thru Hole plug Right Angle 90 DEGREE ( SMA-KWE ) PCB Mount Connector RF
-  42  BAT   Li-Ion     --      18650   18650 Battery with solder tabs (Rechargeable) 
-  43	SIM	 Sim Holder	Bottom	 WeLink-0009 
 
-https://github.com/BeePro-scales/BeePro/blob/main/Hardware/SimHolder.jpg
+See partslist here - [PartList](/Hardware/PartList.csv)
 
-## Feel free to ping us at beeproscales@gmail.com - if you're intrested to buy parts "KIT"
+Simholder example: https://github.com/BeePro-scales/BeePro/blob/main/Hardware/SimHolder.jpg
+
+Feel free to ping us at beeproscales@gmail.com - if you're intrested to buy parts "KIT"
 

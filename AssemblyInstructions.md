@@ -1,4 +1,4 @@
-Solder parts from this list : [PartList](/Hardware/PartList.txt)
+Solder parts from this list : [PartList](/Hardware/PartList.csv)
 
 Following these 2 images :
 
