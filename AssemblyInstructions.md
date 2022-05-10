@@ -1,10 +1,10 @@
 Solder parts from this list : [PartList](/Hardware/PartList.csv)
 
-Following these 2 images :
+Following these 2 images (* improved images) :
 
-Bottom part ![Bottom Side](/images/pcbBottom.jpeg)
+Bottom part ![Bottom Side](/images/bot.jpeg)
 
-Top part ![Up Side](/images/pcbUp.jpeg)
+Top part ![Up Side](/images/top.jpeg)
 
 ## After soldering, the PCB must be thoroughly washed from the solder pasta (flux)
 
@@ -21,3 +21,9 @@ Place corpus on a flat surface ( side is not important ), then solder battery in
 ![bat0](/images/bat0.jpg) arba ![bat1](/images/bat1.jpg)
 
 #### Last but not least - Cover open contacts with a PCB varnish.
+
+# Old platform images ( just for a reference )
+
+Bottom part ![Bottom Side](/images/pcbBottom.jpeg)
+
+Top part ![Up Side](/images/pcbUp.jpeg)
