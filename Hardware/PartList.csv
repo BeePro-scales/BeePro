@@ -23,6 +23,7 @@ No,Name,Value,Layer,Package
 22,Q5,MCP1702-3.0,Top,SOT-23A
 23,Q6,DTA113ZCA,Top,SOT-23
 24,Q7,DTA113ZCA,Bottom,SOT-23
+Q8	MMBT2222A	Bottom,SOT-23
 25,R1,47k,Top,805
 26,R2,150R,Top,805
 27,R3,47k,Top,805
@@ -38,6 +39,7 @@ No,Name,Value,Layer,Package
 37,R13,10K,Bottom,805
 38,R14,10K,Top,805
 39,R15,"1,6K",Top,805
+R16	510R	Bottom,805
 40,U2,A9,Top,805
 41,ANT,14.5mm,Top,SMA Female Thru Hole plug Right Angle 90 DEGREE ( SMA-KWE ) PCB Mount Connector RF
 42,BAT,Li-Ion,Top or Bottom,18650 Battery with solder tabs (Rechargeable) 
