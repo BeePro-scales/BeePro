@@ -2,9 +2,9 @@ Solder parts from this list : [PartList](/Hardware/PartList.csv)
 
 Following these 2 images (* improved images) :
 
-Bottom part ![Bottom Side](/images/bot.jpeg)
+Bottom part ![Bottom Side](/images/bot.JPG)
 
-Top part ![Up Side](/images/top.jpeg)
+Top part ![Up Side](/images/top.JPG)
 
 ## After soldering, the PCB must be thoroughly washed from the solder pasta (flux)
 
